@@ -1,4 +1,4 @@
-// Tehtävä 6.
+
 // tyypitellään eläin niin ts on tyytyväinen
 type Elain = {
   laji: string
